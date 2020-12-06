@@ -7398,6 +7398,12 @@ body.switch-open {
 }
 
 @media screen and (min-width: 600px){
+	.log-img{
+		width:85%;
+		margin-left:auto;
+		margin-right:auto;
+		display:block;
+	}
 	.card-deck{
 		
 	}
